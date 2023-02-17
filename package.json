@@ -14,16 +14,17 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Antonio-Avelino/mydir-file.git"
+    "url": "https://github.com/Antonio-Avelino/counts-hour.git"
   },
   "author":{
     "name":"António Avelino",
-    "email":"antonioaveli3@gmail.com"
+    "email":"antonio316890@gmail.com",
+    "nome":"Florentino Matos",
+    "email":"florentinodealmeidamatos@gmail.com"
       } ,
   "license": "MIT",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bugs": {
+    "url": "https://github.com/Antonio-Avelino/counts-hour/issues"
   },
-  "author": "",
-  "license": "ISC"
+   "homepage": "https://github.com/Antonio-Avelino/counts-hour#readme"
 }
