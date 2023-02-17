@@ -1,7 +1,7 @@
 # counts-hour
 This library allows you to calculate the total work hours between two specified dates and times.
 
-:us: [English][en-docs]&nbsp;&nbsp;|&nbsp;&nbsp;:brazil: [Português de Angola][pt-ao-docs]
+:us: [English][en-docs]&nbsp;&nbsp;|&nbsp;&nbsp;:angola: [Português de Angola][pt-ao-docs]
 
 ## Function: date
 
