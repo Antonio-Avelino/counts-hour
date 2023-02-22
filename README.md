@@ -1,8 +1,8 @@
 # counts-hour
 This library allows you to calculate the total work hours between two specified dates and times.
 
-:us: [English][en-docs]&nbsp;&nbsp;|&nbsp;&nbsp;:brazil: [Português de Angola][pt-ao-docs]
-
+:us: [English][en-docs]&nbsp;&nbsp;|&nbsp;&nbsp;:angola:[pt-docs]
+## Installation
 ```console
 npm i counts-hour
 ```
@@ -81,4 +81,8 @@ console.log(date)
 
 ## License
 
+<<<<<<< HEAD
 [MIT][license-url] &copy; Antonio Avelino & Florentino Matos
+=======
+[MIT][license-url] &copy; Antonio Avelino, Florentino Matos
+>>>>>>> 21508fb0113d7bac70d6362c15b6d4cd8af37d54
