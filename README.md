@@ -3,6 +3,9 @@ This library allows you to calculate the total work hours between two specified 
 
 :us: [English][en-docs]&nbsp;&nbsp;|&nbsp;&nbsp;:brazil: [Português de Angola][pt-ao-docs]
 
+```console
+npm i counts-hour
+```
 ## Function: date
 
 The date function takes two dates as parameters and calculates the number of days between them.
