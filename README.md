@@ -19,7 +19,7 @@ format: '2022-01-01'
 ### Example:
 ```javascript
 
-date('2022-01-01', '2022-01-02')
+const {date} = require("counts-hour");
 console.log(date('2022-01-01', '2022-01-02'))
 
 ```
@@ -38,7 +38,7 @@ hourSync(firstdate, firsthour, seconddate, secondhour)
 ### Example:
 ```javascript
 
-hourSync('2022-01-01', '13:30', '2022-01-02', '14:34')
+const {hourSync} = require("counts-hour");
 console.log(hourSync('2022-01-01', '13:30', '2022-01-02', '14:34'))
 
 ```
@@ -50,6 +50,7 @@ console.log(data)
 ### Example:
 ```javascript
 
+const {hourCall} = require("counts-hour");
 hourCall('2022-01-01', '13:30', '2022-01-02', '14:34',(data,erro)=>{
 
 console.log(data)
@@ -68,6 +69,8 @@ console.log(date)
 
 ```javascript
 
+const {hourPromise} = require("counts-hour");
+
 hourPromise('2022-01-00', '13:30', '2022-01-02', '14:34')
 .then((date)=>{
 
@@ -78,4 +81,4 @@ console.log(date)
 
 ## License
 
-[MIT][license-url] &copy; Antonio Avelino, Florentino Matos
+[MIT][license-url] &copy; Antonio Avelino & Florentino Matos
